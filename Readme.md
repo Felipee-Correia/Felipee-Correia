@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Felipe+Correira" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Felipe+Correia" alt="Typing SVG" /></a>
 <!-- Nome com animação -->
 <h3 align="center">
   <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">
