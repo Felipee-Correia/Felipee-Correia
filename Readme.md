@@ -1,9 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Felipe+Correira" alt="Typing SVG" /></a>
 <!-- Nome com animação -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=480&lines=Felipe Correia">
-</p>
-
 <h3 align="center">
   <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">
   Estudando de Desenvolvimento • Graduando em Engenharia de Software
