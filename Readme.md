@@ -51,8 +51,8 @@ Venho direcionando meus estudos para desenvolvimento de software, com foco na co
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinips04&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinips04&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipee-Correia&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipee-Correia&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
